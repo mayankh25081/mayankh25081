@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 2nd year student of Mnit Jaipur , currently pursuing my B.tech in electronics and communication engineering.<br> I'm a hardcore programmer with a good hold on data structures and algorithms and into competitive programming.<br> I have a lot of interest and good hold on website design and development. 
+I am student of Mnit Jaipur , currently pursuing my B.tech in electronics and communication engineering.<br> I'm a hardcore programmer with a good hold on data structures and algorithms and into competitive programming.<br> I have a lot of interest and good hold on website design and development. 
 
 
 ## 🌐 Socials:
